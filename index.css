@@ -1,0 +1,14 @@
+*{
+    Padding: 0;
+    Margin: 0;
+    }
+
+    body {
+        background-size: 700px;
+        background-image: url('./images/background-image.jpg') ;
+        width: 700px;
+        height: 700px;
+        border: 2px solid;
+        
+    }
+    
